@@ -59,7 +59,7 @@ export const ImageUploader: React.FC = () => {
       <div className="flex flex-col items-center justify-center">
         <div className="mb-6">
           <img
-            src="/src/asset/bucketimage.png"
+            src="/public/asset/bucketimage.png"
             alt="Upload basket"
             className="w-32 h-32"
           />
